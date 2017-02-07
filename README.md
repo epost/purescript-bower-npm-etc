@@ -10,15 +10,17 @@ The dependencies are specified `dependencies.json`
 		"control": [
 			"Control.Alt",
 			"Control.Plus",
-			/* etc... etc. */
+			/* etc. */
 		],
 	}
 
 This is mapped to
 
-> bower_components/purescript-control/src/Control/Monad/Eff/Console.purs
-
-(but for `purescript-control`, `Control/Alt.purs`, etc..)
+```
+bower_components/purescript-control/src/Control/Alt.purs
+bower_components/purescript-control/src/Control/Plus.purs
+```
+etc.
 
 This script creates the mapping:
 
