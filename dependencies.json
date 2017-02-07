@@ -1,0 +1,234 @@
+{
+   "control": [
+      "Control.Alt",
+      "Control.Plus",
+      "Control.Alternative",
+      "Control.Extend",
+      "Control.MonadZero",
+      "Control.Lazy",
+      "Control.Comonad",
+      "Control.MonadPlus"
+   ],
+   "xstream": [
+      "XStream"
+   ],
+   "maybe": [
+      "Data.Maybe",
+      "Data.Maybe.First",
+      "Data.Maybe.Last"
+   ],
+   "prelude": [
+      "Control.Applicative",
+      "Data.Ord.Unsafe",
+      "Control.Apply",
+      "Control.Category",
+      "Control.Semigroupoid",
+      "Data.Functor",
+      "Data.Function",
+      "Data.Unit",
+      "Data.Show",
+      "Control.Bind",
+      "Control.Monad",
+      "Prelude",
+      "Data.Boolean",
+      "Data.BooleanAlgebra",
+      "Data.HeytingAlgebra",
+      "Data.Bounded",
+      "Data.Ord",
+      "Data.Eq",
+      "Data.Ordering",
+      "Data.Ring",
+      "Data.Semiring",
+      "Data.CommutativeRing",
+      "Data.EuclideanRing",
+      "Data.Field",
+      "Data.NaturalTransformation",
+      "Data.Semigroup",
+      "Data.Void"
+   ],
+   "null": [
+      "Data.Null"
+   ],
+   "monoid": [
+      "Data.Monoid",
+      "Data.Monoid.Conj",
+      "Data.Monoid.Disj",
+      "Data.Monoid.Dual",
+      "Data.Monoid.Endo",
+      "Data.Monoid.Additive",
+      "Data.Monoid.Multiplicative"
+   ],
+   "invariant": [
+      "Data.Functor.Invariant"
+   ],
+   "aff": [
+      "Control.Monad.Aff",
+      "Control.Monad.Aff.Internal",
+      "Control.Monad.Aff.AVar"
+   ],
+   "arrays": [
+      "Data.Array"
+   ],
+   "exceptions": [
+      "Control.Monad.Eff.Exception"
+   ],
+   "eff": [
+      "Control.Monad.Eff",
+      "Control.Monad.Eff.Unsafe",
+      "Control.Monad.Eff.Class"
+   ],
+   "either": [
+      "Data.Either"
+   ],
+   "foldable-traversable": [
+      "Data.Bifoldable",
+      "Data.Bitraversable",
+      "Data.Foldable",
+      "Data.Traversable"
+   ],
+   "newtype": [
+      "Data.Newtype"
+   ],
+   "tailrec": [
+      "Control.Monad.Rec.Class"
+   ],
+   "bifunctors": [
+      "Data.Bifunctor",
+      "Control.Biapplicative",
+      "Control.Biapply"
+   ],
+   "functions": [
+      "Data.Function.Uncurried"
+   ],
+   "st": [
+      "Control.Monad.ST"
+   ],
+   "identity": [
+      "Data.Identity"
+   ],
+   "partial": [
+      "Partial.Unsafe",
+      "Partial"
+   ],
+   "nonempty": [
+      "Data.NonEmpty"
+   ],
+   "transformers": [
+      "Control.Monad.Error.Class",
+      "Control.Monad.Cont.Trans",
+      "Control.Monad.Cont.Class",
+      "Control.Monad.Reader.Class",
+      "Control.Monad.State.Class",
+      "Control.Monad.Trans.Class",
+      "Control.Monad.Except.Trans",
+      "Control.Monad.Writer.Class",
+      "Control.Monad.Maybe.Trans",
+      "Control.Monad.Reader.Trans",
+      "Control.Monad.Writer.Trans",
+      "Control.Monad.Except"
+   ],
+   "tuples": [
+      "Data.Tuple"
+   ],
+   "unfoldable": [
+      "Data.Unfoldable"
+   ],
+   "parallel": [
+      "Control.Parallel",
+      "Control.Parallel.Class"
+   ],
+   "refs": [
+      "Control.Monad.Eff.Ref"
+   ],
+   "distributive": [
+      "Data.Distributive"
+   ],
+   "functors": [
+      "Data.Functor.Compose"
+   ],
+   "unsafe-coerce": [
+      "Unsafe.Coerce"
+   ],
+   "console": [
+      "Control.Monad.Eff.Console"
+   ],
+   "js-timers": [
+      "Control.Monad.Eff.Timer"
+   ],
+   "integers": [
+      "Data.Int",
+      "Data.Int.Bits"
+   ],
+   "strings": [
+      "Data.String",
+      "Data.String.Regex",
+      "Data.String.Unsafe",
+      "Data.String.Regex.Flags",
+      "Data.String.Regex.Unsafe"
+   ],
+   "math": [
+      "Math"
+   ],
+   "validation": [
+      "Data.Validation.Semigroup"
+   ],
+   "http-methods": [
+      "Data.HTTP.Method"
+   ],
+   "generics": [
+      "Data.Generic"
+   ],
+   "proxy": [
+      "Type.Proxy"
+   ],
+   "media-types": [
+      "Data.MediaType",
+      "Data.MediaType.Common"
+   ],
+   "affjax": [
+      "Network.HTTP.Affjax",
+      "Network.HTTP.Affjax.Request",
+      "Network.HTTP.Affjax.Response",
+      "Network.HTTP.RequestHeader",
+      "Network.HTTP.ResponseHeader",
+      "Network.HTTP.StatusCode"
+   ],
+   "dom": [
+      "DOM.XHR.Types",
+      "DOM.File.Types",
+      "DOM.Event.Types",
+      "DOM.Node.Types"
+   ],
+   "foreign": [
+      "Data.Foreign",
+      "Data.Foreign.Class",
+      "Data.Foreign.Index",
+      "Data.Foreign.Null",
+      "Data.Foreign.NullOrUndefined",
+      "Data.Foreign.Undefined"
+   ],
+   "lists": [
+      "Data.List.NonEmpty",
+      "Data.List",
+      "Data.List.Types"
+   ],
+   "nullable": [
+      "Data.Nullable"
+   ],
+   "argonaut-core": [
+      "Data.Argonaut.Core"
+   ],
+   "maps": [
+      "Data.StrMap",
+      "Data.StrMap.ST"
+   ],
+   "arraybuffer-types": [
+      "Data.ArrayBuffer.Types"
+   ],
+   "form-urlencoded": [
+      "Data.FormURLEncoded"
+   ],
+   "globals": [
+      "Global"
+   ]
+}
